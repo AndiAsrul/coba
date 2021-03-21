@@ -14,4 +14,5 @@ Menanti lembar aksara darinya
 Tinta-tinta rasaku pun sudah kering
 Jari jemariku pun sudah lelah
 Menulis lembar aksara asmara
-Lembar aksara asmara yang tak pernah berbalas      
+Lembar aksara asmara yang tak pernah berbalas 
+Belajar remot repository     
