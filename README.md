@@ -15,4 +15,5 @@ Tinta-tinta rasaku pun sudah kering
 Jari jemariku pun sudah lelah
 Menulis lembar aksara asmara
 Lembar aksara asmara yang tak pernah berbalas 
-Belajar remot repository     
+Belajar remot repository    
+ git fetch tutorial 10 
