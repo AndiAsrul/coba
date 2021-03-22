@@ -19,3 +19,4 @@ Belajar remot repository
  git fetch tutorial 10 
  PENGGUNAAN GIT FETCH
 PENGGUNAAN GIT FETCH tutor 10
+PENGGUNAAN GIT FETCH tutor 10 part 2
